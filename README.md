@@ -9,7 +9,8 @@ Simin是使用Java在Android-API上封装的图形库。
 * 适用于小游戏，和应用。
 * 使用该库已完成如下游戏：
     * **消灭羊驼**
-        http://app.mi.com/detail/53555
+    
+     http://app.mi.com/detail/53555
 
     * **2048+**
         http://app.mi.com/detail/58078
