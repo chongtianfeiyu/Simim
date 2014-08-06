@@ -17,7 +17,7 @@ Simin是使用Java在Android-API上封装的图形库。
         http://app.mi.com/detail/58776
         
 
-Sample
+示例
 --------
 提供一系列[Sample](https://github.com/neuoZhuo/Simim-Sample)，包括完整的2048+源代码和资源。
 
