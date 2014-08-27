@@ -1,3 +1,4 @@
+/*
 package com.neuo.android;
 
 import android.app.Activity;
@@ -141,3 +142,4 @@ public class ThridAdManager {
 		}
 	}
 }
+*/
